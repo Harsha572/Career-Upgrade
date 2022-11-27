@@ -95,7 +95,7 @@ header nav ul li a {
 #hero-image {
     height: 750px;
     padding-top: 1px;
-    background-image:url("https://th.bing.com/th/id/R.974a5b12174eb15ae1cd23b471ff3411?rik=AWAr4HJjbFejaA&riu=http%3a%2f%2fjobs.makeitmsp.org%2fimages%2fbackground-index.png&ehk=310z%2fLR1TFRRWNZFCw%2bf9RIvJiIg9IWQYY%2b%2bzUTOuuI%3d&risl=&pid=ImgRaw&r=0");
+    background-image:url('bgimage.jpg');
     background-repeat: no-repeat;
     background-size:100% 100%;
     background-attachment:fixed;
